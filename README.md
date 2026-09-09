@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dileep</h1>
 
 <h3 align="center">
-  ☁️ Azure Cloud & DevOps Learner | 🧪 Software Test Engineer | 🚀 Automation Enthusiast
+  ☁️ Azure Cloud & DevOps Learner | 🧪 Software Test Engineer | ⚙️ Automation Enthusiast
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Building skills in Azure Cloud, Terraform, CI/CD & Infrastructure Automation</b>
+  <b>Building practical skills in Azure Cloud, Terraform, CI/CD & Infrastructure Automation</b>
 </p>
 
 <p align="center">
@@ -25,11 +25,13 @@
 
 I'm a **Software Test Engineer with 6+ years of IT experience**, including 4+ years at HCLTech, currently working on **Microsoft Teams for Lite (TFL)** testing across Android and iOS.
 
-Alongside my professional testing experience, I'm gradually transitioning toward **Azure Cloud & DevOps** by building practical skills and projects.
+Alongside my professional testing experience, I'm gradually transitioning toward **Azure Cloud & DevOps** by building practical skills through hands-on projects, labs and training.
 
-I enjoy understanding how applications move from **code → infrastructure → deployment → testing → release** and I'm currently focused on strengthening my hands-on knowledge of cloud infrastructure and automation.
+I enjoy understanding how applications move from **code → infrastructure → deployment → testing → release** and I'm currently focused on strengthening my cloud infrastructure and automation skills.
 
-### 🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 * ☁️ Microsoft Azure Cloud
 * 🏗️ Infrastructure as Code with Terraform
@@ -40,6 +42,7 @@ I enjoy understanding how applications move from **code → infrastructure → d
 * 🌐 Azure Networking
 * 🖥️ Azure Virtual Machines
 * 🚀 Nginx & Application Deployment
+* 💾 Terraform Backend & Remote State
 
 ---
 
@@ -56,7 +59,7 @@ I enjoy understanding how applications move from **code → infrastructure → d
 
 **Hands-on practice with:**
 
-`Resource Groups` • `Virtual Machines` • `Storage Accounts` • `VNet` • `Subnets` • `NIC` • `Public IP` • `Azure Bastion` • `Nginx`
+`Resource Groups` • `Virtual Machines` • `Storage Accounts` • `Blob Containers` • `VNet` • `Subnets` • `NIC` • `Public IP` • `Azure Bastion` • `Nginx`
 
 ---
 
@@ -74,6 +77,8 @@ I enjoy understanding how applications move from **code → infrastructure → d
 * Data Blocks
 * Terraform Modules
 * Parent & Child Modules
+* **Terraform Backend & Remote State**
+* **Azure Storage Account & Blob Container for Terraform State**
 * Azure VM provisioning
 * Storage Account provisioning
 * Networking resources
@@ -112,7 +117,7 @@ I enjoy understanding how applications move from **code → infrastructure → d
 
 ## 🧪 Software Testing Experience
 
-My professional background is in **Software Testing**, which gives me a strong understanding of the complete software delivery lifecycle.
+My professional background is in **Software Testing**, giving me a strong understanding of the software development and delivery lifecycle.
 
 ### Testing Experience
 
@@ -156,6 +161,15 @@ Built Azure infrastructure using **Terraform Infrastructure as Code**, including
 
 ---
 
+### 💾 Terraform Backend & Remote State
+
+Practiced configuring **Terraform Remote State** using an Azure Storage Account and Blob Container as the backend for Terraform state management.
+
+**Technologies:**
+`Terraform Backend` `Azure Storage Account` `Blob Container` `Remote State`
+
+---
+
 ### 🔄 CI/CD Practice
 
 Currently building and practicing CI/CD workflows using **GitHub and Azure Repos/Azure DevOps** to understand automated build and deployment processes.
@@ -178,6 +192,8 @@ Azure CLI
      ↓
 Terraform / Infrastructure as Code
      ↓
+Terraform Backend / Remote State
+     ↓
 Git & GitHub
      ↓
 CI/CD Pipelines
@@ -197,6 +213,7 @@ I use GitHub to document my learning journey and build practical projects around
 
 * ☁️ Azure Cloud
 * 🏗️ Terraform
+* 💾 Terraform Remote State
 * 🔄 CI/CD
 * 🔧 Infrastructure Automation
 * 🐧 Linux
